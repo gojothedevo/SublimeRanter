@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SublimeRanter
+- 👋 Hi, I’m @devkakashi
 - 👀 I’m interested in ...Anime and...coding?
 - 🌱 I’m currently learning ...How to be a decent coder
 - 💞️ I’m looking to collaborate on ...Discord pm
