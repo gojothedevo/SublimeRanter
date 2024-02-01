@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @SublimeRanter
-- 👀 I’m interested in ...Anime,Socializing
-- 🌱 I’m currently learning ...How to be a dope weeb
+- 👀 I’m interested in ...Anime and...coding?
+- 🌱 I’m currently learning ...How to be a decent coder
 - 💞️ I’m looking to collaborate on ...Discord pm
-- 📫 How to reach me ...nah you can't
+- 📫 How to reach me ... don't even try
 
 <!---
 SublimeRanter/SublimeRanter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
